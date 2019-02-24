@@ -7,6 +7,15 @@
     <AssemblyName>CHD.HWBackButtonManager</AssemblyName>
     <RootNamespace>CHD</RootNamespace>
     <Version>1.0.1</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <Copyright>Copyright 2019, ChihuasDevs</Copyright>
+    <PackageProjectUrl>https://github.com/josco007/CHD.HWBackButtonManager</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/josco007/CHD.HWBackButtonManager&lt;</RepositoryUrl>
+    <RepositoryType>https://github.com/josco007/CHD.HWBackButtonManager.git</RepositoryType>
+    <PackageTags>android, backbutton, xamarin, forms</PackageTags>
+    <Description>This is a manager to handle hardware backbutton event.</Description>
+    <PackageIconUrl>https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/52753331_2415663155332282_5344905840014917632_n.png?_nc_cat=105&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=3d50deaeb8ecbd0486bfd339fd142b75&amp;oe=5D28D9CD</PackageIconUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
