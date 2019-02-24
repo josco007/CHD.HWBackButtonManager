@@ -14,7 +14,7 @@ On your pcl project page:
 
         bool OnBackButtonPressed()
         {
-            return false;
+            return false; //false ignore backbutton
         }
 
         HWBackButtonManager.OnBackButtonPressedDelegate onBackButtonPressedDelegate = new HWBackButtonManager.OnBackButtonPressedDelegate(OnBackButtonPressed);
@@ -29,7 +29,7 @@ On your pcl project page:
     protected override void OnDisappearing()
     {
         base.OnDisappearing();
-        HWBackButtonManager.Instance.RemoveHWBackButtonListener();
+        HWBackButtonManager.Instance.RemoveHWBackButtonListener(); // other pages allow backbutton
     }
 On your andriod MainActivity:
 
