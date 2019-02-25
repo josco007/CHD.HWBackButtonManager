@@ -2,7 +2,11 @@
 singlenton util to handle back button in a .NetStandard project
 
 
+How to install:
 
+You can install from the nuget manager in visual studio
+
+nuget link: https://www.nuget.org/packages/CHD.HWBackButtonManager/#
 
 Usage:
 
