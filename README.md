@@ -6,7 +6,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
  [![paypal](https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2TEDQDPJ557A)
 
 
-Singlenton util to handle back button in a .NetStandard project
+Singlenton util to handle the android hardware back button in a .NetStandard project
 
 
 How to install:
